@@ -1,0 +1,9 @@
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
+data/NWSS_Public_SARS-CoV-2_Wastewater_Metric_Data_20260515.csv
+.Rproj.user
+.Rdata
+.httr-oauth
+.quarto
